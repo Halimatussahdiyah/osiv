@@ -1,0 +1,1 @@
+<p>Akun Email telah di validasi silahkan boleh memasuki website OSIV</p>
